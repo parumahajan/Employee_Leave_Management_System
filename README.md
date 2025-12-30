@@ -20,4 +20,4 @@ I have implemented these 7 features within my application:
 <img width="1009" height="225" alt="image" src="https://github.com/user-attachments/assets/06f9b7ae-a7c5-4baf-b5dc-84763c6ca133" />
 
 # LEAVE RECORDS
-<img width="1228" height="276" alt="image" src="https://github.com/user-attachments/assets/359707ac-ad86-4b6e-99ac-fee66aa31690" />
+<img width="1235" height="266" alt="image" src="https://github.com/user-attachments/assets/8367e723-f3be-4741-b269-9e4cae78b71f" />
